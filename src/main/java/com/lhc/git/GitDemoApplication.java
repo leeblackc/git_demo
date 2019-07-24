@@ -11,6 +11,7 @@ public class GitDemoApplication {
         System.out.println("commit change c2");
         System.out.println("test1 commit change c3");
         System.out.println("test1 commit change c4");
+        System.out.println("test2 commit change c5");
         SpringApplication.run(GitDemoApplication.class, args);
     }
 
